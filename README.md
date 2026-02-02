@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Evelina!
+🛡️ Cybersecurity & Digital Infrastructure student at NTNU<br/>
+💻 Interested in cybersecurity, systems, and software engineering<br/>
+🏋️ Hobbies include homelabbing, working out, programming, and CTFs<br/>
+🧠 Learning by building and breaking things<br/>
+🤓 Currently building a full-stack CV website <br/>
+🚩 Actively solving challenges on OverTheWire<br/>
 
-<!--
-**33velina/33velina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Tech stack--> 
+Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
+</p>
